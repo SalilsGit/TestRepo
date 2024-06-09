@@ -1,2 +1,3 @@
 To add the file with username configured.
 Line added to show modified in status.
+Line added to demonstarte commit along with commit message in one command.
